@@ -15,5 +15,5 @@ This is a simple web page for controlling a robot using buttons to move it in di
 
 ## Usage
 
-1. Open `index.html` in a web browser.
+1. Open https://reemaalzhrani.github.io/RobotControlPanel-/ in a web browser.
 2. Click the buttons to control the robot's movement.
